@@ -1,2 +1,2 @@
 print("hello world")
-print("from shruti triyogi")
+print("from prerana punde")
